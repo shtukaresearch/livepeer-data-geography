@@ -16,21 +16,3 @@ They are:
   * **Delegates.** Delegate voting behaviour.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-What about builder activity? It depends on what they are building, who paid for it, and why.
-
-* Companies building on Livepeer video processing capability. Falls into **demand** view.
-* Public goods builders. Falls into **governance/coordination** view.
-* Building on LPT, e.g. liquid staking. Liquid staking apps are a source of demand for staked tokens, so falls into **staking** view.
