@@ -1,6 +1,6 @@
 # Livepeer views
 
-The queries associated with each of the seven [roles](../roles.md) in the Livepeer ecosystem can be grouped into six **views**.
+The queries associated with each of the seven [roles](../roles/README.md) in the Livepeer ecosystem can be grouped into six **views**.
 
 They are:
 
@@ -14,5 +14,4 @@ They are:
   * **Treasury.** Treasury deployment (budget, grants, capital management).
   * **Protocol.** Protocol research, LIPs.
   * **Delegates.** Delegate voting behaviour.
-
 
