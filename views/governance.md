@@ -70,4 +70,5 @@ View of the governance context and decision-making of the Livepeer ecosystem. Co
 + Karma Grant Accountability Protocol. https://gap.karmahq.xyz/community/livepeer
 + Sixdegree's LPT holder dashboard. https://dune.com/sixdegree/liverpeer-lpt-ownership-and-governance
 + Livepeer treasury Dune dash. https://dune.com/dob/livepeer-treasury
++ Delegate vote and DAO decision history. https://www.livepeer.tools/vote/history
 

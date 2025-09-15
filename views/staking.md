@@ -18,13 +18,14 @@ View of staking yield and risks across individual orchestrators and in aggregate
 
 + How quickly will I increase my LPT holdings as a % of supply by delegating + compounding?
 
-  *Source.* Ratio of best staking yield to dilution. If staking large (market-moving) amount, calculation from user input.
+  * *Source.* Ratio of best staking yield to dilution. If staking large (market-moving) amount, calculation from user input.
+  * *Source.* Staking yield forecast via [explorer](https://explorer.livepeer.org)
 
-  *Representations.* Cumulative supply share chart, trailing YoY % growth chart.
+  * *Representations.* Cumulative supply share chart, trailing YoY % growth chart.
 
   * Delegating to which O?
 
-    *Representations.* Searchable table of Os, yields, and ETH cashflows. Cumulative supply share and YoY growth charts.
+    * *Representations.* Searchable table of Os, yields, and ETH cashflows. Cumulative supply share and YoY growth charts.
 
 + How much are other delegators making from this?
 

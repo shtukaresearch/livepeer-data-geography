@@ -96,7 +96,10 @@ View of aggregate and per-orchestrator compute costs, performance, risk, and cap
 
 * Subgraph. https://thegraph.com/explorer/subgraphs/FE63YgkzcpVocxdCEyEYbvjYqEf2kb1A6daMYRxmejYC
 
-* Details on Orchestrator capabilities. https://www.livepeer.tools/orchestrators
+* Livepeer Tools
+
+  * Details on Orchestrator capabilities. https://www.livepeer.tools/orchestrators
+  * Performance (success rate and latency score). https://www.livepeer.tools/performance/leaderboard
 
 * Orchestrators can report `Capabilities` in response to an RPC call. (Source code references based on v0.8.6 of go-livepeer.)
 
