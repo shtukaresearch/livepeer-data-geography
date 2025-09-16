@@ -1,32 +1,8 @@
 # Investor-delegator
 
-LPT investor and delegator roles.
+In our model, an Investor is an entity that makes decisions about investing capital into LPT, especially for the longer term (one year or more). We expect that such investors are interested mainly in "fundamentals" of the LPT token, that is, the potential for Livepeer Network revenue growth and expectations about the extent to which the value of that revenue accrues to the token, dilution due to issuance, and risks such as governance risk, liquidity overhang, peer competitors and general dePIN or web3 market headwinds.
 
-Basic characteristics and goals:
-
-Investor (1Y+, fundamentals based, OTC). Institutional analyst.
-
-* Delegator
-  * O performance
-  * Voting activity
-    * General stats (how active are they?)
-    * What votes do they make?
-* Long only
-* Dilution
-* Liquidity overhang (large holders, unlocks)
-* Governance risk (large holders, vote participation rate)
-* Managers and dealings
-* Listings
-* Growth
-* Peer competitors
-
-* Trader (<3M, open markets)
-  * Long or short
-  * Perps or spot
-  * Mindshare, tradable news (unlocks, listings)
-  * Momentum, TA
-* MM + variants (e.g. AMM LP)
-  * Structurally long (at least on spot)
+An investor that holds LPT has the further option of [*delegating*](https://www.livepeer.org/delegate) (or *staking*) their LPT to one or more [Delegates](https://explorer.livepeer.org/orchestrators) (Orchestrators) in exchange for a share of LPT issuance and the ETH-denominated compute fees earned by those Orchestrators.
 
 ## Scenarios
 
