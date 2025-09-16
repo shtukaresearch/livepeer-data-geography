@@ -1,33 +1,23 @@
 # Livepeer Foundation
 
-Main tasks:
-* Develop and executes high-level strategy
-* Coordination
-  * Manages own treasury + budget (separate from DAO).
+The [Livepeer Foundation](https://forum.livepeer.org/t/launching-the-livepeer-foundation/2849) was launched in April 2025 with the mission:
 
+> [...] to steward the long-term vision, ecosystem growth, and core development of the network.
 
+Broadly speaking, the Livepeer Foundation makes decisions in the following areas:
 
 1. Define strategic objectives for Livepeer
 2. Design initiatives to accelerate or steer progress towards objectives
 3. Drawing on available resources, recruit and coordinate task forces to execute on initiatives
 4. Foundation operations
 
+From the perspective of identifying Livepeer Network and ecosystem data gaps, we regard internal Foundation operations as out of scope.
 
+## Scenarios
 
-* Initiative categories:
-  * Ecosystem
-    * Communications
-    * Develop ecosystem programmes (e.g. funding)
-    * Events
-  * Core protocol research
+* What resources are available to the Livepeer ecosystem (comprising Foundation and DAO) to execute on given objectives?
 
-CF. https://ethereum.foundation/assets/ef-org-chart.png
-
-Fast forwarding a bit to what queries and data gaps these correspond to, we've got:
-
-* What are the available resources? (to the Foundation? To the Foundation + SPEs?)
-
-  * Financial (Foundation treasury, Livepeer treasury, income streams)
+  * Financial (Foundation treasury, Livepeer treasury, income streams).
   * Talent (contributor tracking)
     * Market compensation rates
 
@@ -35,13 +25,16 @@ Fast forwarding a bit to what queries and data gaps these correspond to, we've g
 
   * G growth. Revenue trends + tagging
 
-    *Resource.* Gateway and onchain data.
+    * *Resource.* Data recorded by gateways. *Data availability score: 2*
+    * *Resource.* `WinningTicketRedeemed` event logs. *Data availability score: 4*
+    * *Potential resource.* Network-wide job type aggregator
 
   * I growth. LPT as a product.
 
-    *Resource.* Investor report platforms such as Messari, metrics from raw market data.
+    * *Resource.* Investor report platforms such as Messari.
+    * *Resource.* Metrics from raw market data.
 
-  * O growth. Orchestrator classes
+  * O growth. Orchestrator tiers, identifying data.
 
 * What parts of the Livepeer system are leaving participants dissatisfied (or perhaps dissuading prospective new participants)?
 
