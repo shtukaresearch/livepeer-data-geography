@@ -28,9 +28,8 @@ The notes in this repo are largely structured according to the stated model desc
   2	data is being stored by someone
   3	data is being stored and made available to the community
   4	data is being published in a form accessible to a non-programmer user
-  5	data is being published accessibly and organised in a manner tailored to known use cases
-  6	data is published, organised, and discoverable through a designated portal
+  5	data is published, organised, and discoverable through a designated portal
   ```
-
-  A rating of 6 does not mean that no improvements are possible or needed. For example, if we take the explorer as our designated portal, then in principle 
+  
+If we take the official Explorer as our designated portal, then by definition all data presented there has an availability score of 5. This does not imply that no improvements to presentation of such data are possible or desirable.
 
