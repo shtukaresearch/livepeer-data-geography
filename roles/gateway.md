@@ -4,6 +4,21 @@
 
 ## Scenarios
 
+* Evaluate Livepeer against other GPU compute providers.
+
+  * How competitive are Livepeer GPUs with tradcloud or DePIN peers on pricing?
+    * *Source.* [Vast AI marketplace](https://cloud.vast.ai/), [Silicon Data H100 price index](https://www.silicondata.com/products/silicon-index?gpu=h100)
+  * How competitive are Livepeer GPUs with tradcloud or DePIN peers on risk?
+    * *Data availability score: 0–2* (it can be difficult to find out risk mitigations or guarantees of competitors)
+    * *Source.* Competitor verification processes. [Vast AI](https://docs.vast.ai/verification-stages) 
+  * What are the key areas of demand growth or potential growth within Livepeer?
+    * *Source.* See [Orchestrator note](./orchestrator-deelgate.md).
+    * *Potential source.* Fee growth forecasts based on chain and market data.
+  * What are the key frictions for Gateway operators integrating Livepeer?
+    * *Potential source.* Community engagement.
+  * What are undersupplied demand areas where new gateways could have opportunities to jump in?
+    * *Potential source.* Foundation-originated research reports and messaging.
+
 * Identify costs and opportunities for market entry.
 
   * What competing services currently exist on the Livepeer Network?
@@ -66,7 +81,7 @@
   
     * *Source.* Explorer, livepeer.tools, client integrations. 
     * *Data availability score: 5 (transcoding), 4 (other)*
-  
+    
   * What about price history? How often does O requote?
   * Does a given O offer compliance functions such as GDPR data protection?
 
@@ -82,7 +97,7 @@
 
 ## Gaps
 
-* Clear explanation of the Gateway role.
+* Clear explanation of the Gateway role within Livepeer.
 * Clear, discoverable explanation of current status quo on Protocol-level measures to mitigate fault risks, particularly safety faults.
 * Production-grade, transparent Orchestrator directory with performance and reliability data and extended capability reporting. (Livepeer Tools Orchestrator page is a good start, but seems to be down often, "latency score" is unclear, data source is unclear, and is not discoverable through the explorer.)
 
