@@ -16,9 +16,6 @@
     * *Potential source.* Fee growth forecasts based on chain and market data.
   * What are the key frictions for Gateway operators integrating Livepeer?
     * *Potential source.* Community engagement.
-  * What are undersupplied demand areas where new gateways could have opportunities to jump in?
-    * *Potential source.* Foundation-originated research reports and messaging.
-
 * Identify costs and opportunities for market entry.
 
   * What competing services currently exist on the Livepeer Network?
@@ -63,6 +60,8 @@
   
     * What are the costs of compute if we require given performance, reliability, and reporting thresholds?
       * *Potential source.* Richer search functionality on Orchestrator directory.
+  * Are there any ecosystem subsidies or grants are available for new Gateway operators in specific sectors?
+    * *Data availability score: 0*
 * Define policy for distributing jobs to Os.
 
   * Which Os have the capability to perform my desired workload?
@@ -99,7 +98,9 @@
 
 * Clear explanation of the Gateway role within Livepeer.
 * Clear, discoverable explanation of current status quo on Protocol-level measures to mitigate fault risks, particularly safety faults.
-* Production-grade, transparent Orchestrator directory with performance and reliability data and extended capability reporting. (Livepeer Tools Orchestrator page is a good start, but seems to be down often, "latency score" is unclear, data source is unclear, and is not discoverable through the explorer.)
+* Production-grade, transparent Orchestrator directory with performance and reliability data and extended capability reporting. 
+  * Livepeer Tools Orchestrator page is a good start, but seems to be down often, "latency score" is unclear, data source is unclear, and is not discoverable through the explorer.
+* Targeted grant or subsidy programme for new Gateways in focus areas.
 
 ## Resources
 
