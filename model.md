@@ -30,9 +30,7 @@ The notes in this repo are largely structured according to the stated model desc
   4	data is being published in an easily accessible form
   5	data is published, organised, and discoverable through a designated portal
   ```
+  For rating 4, an "easily accessible form" is one not requiring any further work — for example, writing scripts or trawling multiple written sources — to consume.
   
-
-For rating 4, an "easily accessible form" is one not requiring any further work — for example, writing scripts or trawling multiple written sources — to consume.
-
-If we take the official Explorer as our designated portal, then by definition all data presented there has an availability score of 5. This does not imply that no improvements to presentation of such data are possible or desirable.
+  If we take the official Explorer as our designated portal, then by definition all data presented there has an availability score of 5. This does not imply that no improvements to presentation of such data are possible or desirable.
 
