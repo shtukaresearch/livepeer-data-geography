@@ -120,3 +120,4 @@
 * Safety fault mitigation.
   * Transcoding verification improvements (Petkanics, 2021). https://medium.com/livepeer-blog/livepeer-transcoding-verification-improvements-the-next-level-of-network-security-328b47350e24
   * Fast and full transcoding verification (Yondon, 2021). https://forum.livepeer.org/t/transcoding-verification-improvements-fast-full-verification/1499
+* Gateway deployment guide. https://github.com/videoDAC/livepeer-gateway
