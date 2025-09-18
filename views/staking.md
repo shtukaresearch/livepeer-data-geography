@@ -43,14 +43,6 @@ View of staking yield and risks across individual orchestrators and in aggregate
 
   * Slashing risk not implemented.
 
-## Gaps
-
-* Issuance represented as dilution (of liquid LPT) or marginal supply share growth (of staked LPT).
-* Issuance forecasts and its derived representations. Forecast growth on specified LPT deposit.
-* Clear statement of withdrawal conditions, offramp path, and risk.
-* [DePINscan](https://depinscan.io/) token pages can show a staking panel that displays reward rate, TVL, and embeds a widget to deposit stake. ([Example](https://depinscan.io/projects/filecoin))
-  This feature is missing from [Livepeer's token page](https://depinscan.io/projects/livepeer).
-
 ## Resources
 
 * Explorer. https://explorer.livepeer.org

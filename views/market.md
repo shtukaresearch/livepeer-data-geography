@@ -36,12 +36,10 @@ View of LPT as a fundamental investment in the context of its containing market.
 
     *Source.* Onchain: router quotes. CEX: private data. OTC: unknown, perhaps impossible to discover.
 
-## Gaps
-
-* Clear statement of the role of network revenue and fee cuts in driving value to LPT. Summary of network revenue share that accrues to LPT.
-* Easily discoverable statement of the function of LPT voting and its legal or smart contractual relationship to the Livepeer Network.
-* Accurate, credible representation of onchain liquidity including PMM liquidity.
-
 ## Resources
 
 * Token holder dashboard. https://dune.com/sixdegree/liverpeer-lpt-ownership-and-governance
+* Explorer. https://explorer.livepeer.org
+  * Per round issuance rate line chart.
+  * Sortable table of Os with yield forecast, trailing cashflows, and delegated stake.
+  * Track record of reward calls and active period.

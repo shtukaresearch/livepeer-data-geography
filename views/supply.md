@@ -74,10 +74,6 @@ View of aggregate and per-orchestrator compute costs, performance, risk, and cap
 
     *Sources.* Capability validation benchmarks by trusted entity.
 
-## Gaps
-
-
-
 ## Resources
 
 * Explorer. https://explorer.livepeer.org/

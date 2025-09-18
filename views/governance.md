@@ -56,19 +56,3 @@ View of the governance context and decision-making of the Livepeer ecosystem. Co
   * *Source.* In principle, [transcoder campaign forum](https://forum.livepeer.org/c/transcoders/transcoder-campaign/14). We don't know if anyone has announced a manifesto or voting commitment.
   * *Potential source.* DAO delegate dashboard, e.g. Tally or Agora.
 
-## Gaps
-
-* Treasury balance sheet view accessible through explorer.
-* Treasury spending breakdown by category.
-* Protocol research strategy and roadmap.
-* LIP tracker.
-* Grant tracker 
-
-## Resources
-
-+ Forum. https://forum.livepeer.org/
-+ Karma Grant Accountability Protocol. https://gap.karmahq.xyz/community/livepeer
-+ Sixdegree's LPT holder dashboard. https://dune.com/sixdegree/liverpeer-lpt-ownership-and-governance
-+ Livepeer treasury Dune dash. https://dune.com/dob/livepeer-treasury
-+ Delegate vote and DAO decision history. https://www.livepeer.tools/vote/history
-

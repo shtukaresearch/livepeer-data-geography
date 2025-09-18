@@ -6,10 +6,6 @@ View of delegation activity among LPT holders. Bonding and unbonding events and 
 
 
 
-## Gaps
-
-
-
 ## Resources
 
 * Stronk's Livepeer/Arbitrum dashboard.

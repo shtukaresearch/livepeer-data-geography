@@ -33,8 +33,3 @@ Aggregate and categorised view of *demand* viewed through the lens of gateway de
   
   *Representations:* pie chart, stacked bar chart, table.
 
-## Gaps
-
-
-
-## Resources
