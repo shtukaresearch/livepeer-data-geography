@@ -13,58 +13,39 @@ Broadly speaking, the Livepeer Foundation makes decisions in the following areas
 
 From the perspective of identifying Livepeer Network and ecosystem data gaps, we regard internal Foundation operations as out of scope.
 
+Many of the Foundation's scenarios require them to see things from the perspective of a prospective user (gateway), node operator (orchestrator), or investor (delegator), so there is a large overlap in the set of characteristic queries.
+
 ## Scenarios
 
 * Evaluate Livepeer's current position within the competitive landscape for GPU compute.
 
-  * How competitive are Livepeer GPUs with tradcloud or DePIN peers on pricing?
-    * *Source.* [Vast AI marketplace](https://cloud.vast.ai/), [Silicon Data H100 price index](https://www.silicondata.com/products/silicon-index?gpu=h100)
-  * How competitive are Livepeer GPUs with tradcloud or DePIN peers on risk?
-    * *Data availability score: 0–2* (it can be difficult to find out risk mitigations or guarantees of competitors)
-    * *Source.* Competitor verification processes. [Vast AI](https://docs.vast.ai/verification-stages) 
-  * What are the key areas of demand growth or potential growth within Livepeer?
-    * *Source.* See [Orchestrator note](./orchestrator-deelgate.md).
-    * *Potential source.* Fee growth forecasts based on chain and market data.
-  * What are the key frictions for Gateway operators?
-    * *Potential source.* Community engagement.
-  * What are undersupplied demand areas where new gateways could be incentivised to jump in?
+  * See [Gateway](./gateway.md).
+* Develop policies to stimulate demand growth.
+  * What are demand areas in the wider market where new gateways could be incentivised to jump in and serve demand using Livepeer?
     * *Potential source.* Offerings from competitors, expert consultation.
+  * How much subsidy would be needed to clear barriers to entry for new Gateways?
 * Evaluate Livepeer's current position within the competitive landscape for supplying infrastructure.
 
-  * How much revenue can I generate by renting out GPUs through other GPU rental marketplaces?
-    * *Data availability score: 0–1* (most platforms don't publish data)
-    * *Source.* [Vast AI market dashboards](https://500.farm/vastai/charts/dashboards)
-  * Opportunities from running alternative blockchain/depin node software?
-  * How much does it cost to buy a Livepeer rig?
-  * Orchestrator growth trends?
-  * Entry barriers (UX gaps) for Orchestrators?
+  * See [Orchestrator-Delegate](./orchestrator-delegate.md).
+* Develop policies to stimulate node operator growth.
 * Evaluate the current position of LPT within the investment landscape.
 
-  * What are the main investment trends in web3, in DePIN, in Cloud?
-    * *Source.* Investment reports. [Messari](https://messari.io/copilot/share/depin-sector-q1-2025-updates-1e63f804-cf41-437c-af12-c1067c24e5e9), [DePINScan (IoTeX)](https://depinscan.io/news), [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-05-13-gartner-identifies-top-trends-shaping-the-future-of-cloud), 
-    * *Source.* DePIN market listings. [CoinGecko](https://www.coingecko.com/en/categories/depin), [DePINScan](https://depinscan.io/)
-
-  * How difficult is it to enter/exit an LPT investment?
-    * What are the on/offramps and their costs?
-      * *Potential source.* CEX integrations
-    * What's LPT liquidity like on various markets?
-      * What is LPT liquidity likely to look like in the future? What is the Livepeer ecosystem's strategy for ensuring strong liquidity?
-  * How easy is it to stake? What are the yield forecast or yield of staking? How competitive is the yield/risk tradeoff of LPT compared to other staking opportunities?
-    * See [Investor-Delegator](./investor-delegator.md)
+  * See [Investor-Delegator](./investor-delegator.md).
+    
+* Develop policies to stimulate investment and stake growth.
 * Evaluate coordination gaps that could be filled by the Foundation.
 
   * Brand/marketing.
   * Talent and partner coordination.
   * R&D leadership.
-* Identify funding gapss
+* Identify funding gaps and opportunities to deploy idle capital.
 
   * What proportion of budget is currently allocated to furthering each objective area?
     * *Source.* Ad hoc summation of figures from Treasury forum and KarmaGAP
     * *Potential source.* Official summaries.
     * *Potential source.* Clear statement of budget allocation to broad objective categories.
-  * What are we doing with idle capital?
-    * Capital management?
-    * Funding programmes?
+  * How much idle capital is there in the Livepeer Treasury, and what are our plans for its deployment?
+    * *Data availability score: 0* (no budget and no way to determine if capital is really "idle")
 * Gather community and expert views on strategic objective setting.
 
   * *Source.* Community engagement, AB process.
@@ -106,4 +87,5 @@ From the perspective of identifying Livepeer Network and ecosystem data gaps, we
 ## Gaps
 
 * Strategy statements: strategic budget allocation, metrics based objectives.
+* Budget, capital management strategy.
 * Integrated view of Livepeer Treasury with spending areas marked, itemised budget, and income forecast.
