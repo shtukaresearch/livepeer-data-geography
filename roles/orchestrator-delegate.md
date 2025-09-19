@@ -23,6 +23,7 @@ Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate
       * *Source.* [deepwiki](https://deepwiki.com/livepeer/go-livepeer/3.5-capabilities-management)
     * What are the growth areas and what capabilities do gateways in those areas demand?
       * *Source.* Ecosystem news.
+      * *Potential source.* Per-gateway requirements advertising, growth reports.
     * What capabilities do my competitors expose? What about the network as a whole?
       * *Source.* [Livepeer Tools Orchestrator directory](https://livepeer.tools/orchestrators), [AI GPU dashboard](https://livepeer-ai-compute-visualizer.streamlit.app)
   * What are the costs of developing those capabilities and entering the market?
@@ -87,18 +88,20 @@ Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate
     
       * What are the basic standards expected of a protocol upgrade LIP?
         * *Source.* [LIP-1](https://github.com/livepeer/LIPs/blob/master/LIPs/LIP-1.md), [LIP-15](https://github.com/livepeer/LIPs/blob/master/LIPs/LIP-15.md)
-    * Does the proposal argue that it furthers some known ecosystem tactical objective?
+    * Does the proposal argue that it furthers some established ecosystem tactical objective?
     
-      * What are these objectives?
+      * What are these established objectives?
         * *Source.* Foundation tactical objectives [report](https://forum.livepeer.org/c/treasury/18).
     * Is this proposal the best choice currently available to further its stated objectives?
       
       * Are there expert opinions on the likely effects, costs, and benefits of the proposal available for consultation? (To protocol objectives, to node operators, to demand, to investors)?
+        * *Potential source.* Proposal review partners.
       * How does it compare with other related proposals?
       
         * Hard dependencies or conflicts?
           * *Source.* LIP headers
         * Alternative approaches to furthering same objective?
+          * *Potential source.* Research roadmap.
     * When would the proposal be likely to be deployed, how long would it take to develop, and how should it be prioritised among other proposals on a similar timeline?
       * *Potential source.* Smart contract and client upgrade roadmap.
       * *Potential source.* Reports on projected implementation costs from protocol and client teams.
@@ -114,12 +117,14 @@ Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate
 
 ### Orchestrator
 
-* Accessible capability descriptions, per-capability hardware and bandwidth requirements, per-Gateway per-capability market report.
+* Accessible capability descriptions, per-capability hardware and bandwidth requirements. Per-Gateway per-capability market report. Gateway requirements advertising for Gateway-defined job classes.
 * Market comparison with infrastructure opportunities outside Livepeer.
-* Presentation of implied operating costs across Orchestrator market.
+* Summaries of implied operating costs across Orchestrator market.
+* Improved Orchestrator directory (cf. [Gateway](./gateway.md))
 
 ### Delegate
 
 * Dashboard showing delegate activity with staking event listings and self-identified investor addresses.
 * Foundation-led Treasury strategy and budget. Funding programmes with defined objectives in focus areas.
 * Research roadmap and client/SC upgrade calendar. Compare [Ethereum roadmap](https://ethroadmap.com/).
+* Designated third party reviews for LIPs.
