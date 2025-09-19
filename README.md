@@ -40,12 +40,6 @@ We identified a few focus areas for improvements:
 
   *Evaluation.* Useful for Orchestrators and the Foundation for fine-grained demand growth tracking. Requires that an onchain representation of a job can at least be associated to its originating gateway, and preferably also that **job tagging and requirements advertising** be implemented.
 
-* **Protocol research and evaluation.** Led by the Foundation, develop and publish a research roadmap and client/SC upgrade calendar. Recruit a research team or research partners. Compare [Ethereum roadmap](https://ethroadmap.com/).
-
-  Designate independent expert authors and reviewers for standard track LIPs.
-
-  *Evaluation.* Delegates deciding whether to vote on protocol upgrade or parameter change LIPs would benefit from an expert synthesis of available information and quantitative analysis to inform their decisions. Under current conditions, the votes of a small number of delegates can swing these decisions, and may do so without achieving general community alignment or even awareness of the changes. This latent alignment issue could be ameliorated by communicating clear criteria and context against which upgrade LIPs can be judged, and supplementing .
-
 * **Treasury strategy and budget.** Produce one and publish it.  Develop funding programmes with defined objectives in focus areas.
 
   *Evaluation.* Provide essential context for delegates deciding on treasury allocation decisions, facilitating ecosystem-wide alignment and understanding. The current funding allocations to SPEs, and especially to the Transformation SPE, are a starting point, but not a full substitute for an integrated budget with a unified approval process. The costs of producing a budget proposal and working towards LPT-vote 
@@ -59,6 +53,8 @@ We identified a few focus areas for improvements:
   *Evaluation.* The decision of whether to try to productionise Livepeer Tools or to simply adapt the good parts of its code and design principles in a revamped explorer should depend on the overall ecosystem data strategy and how much funding is available.
 
 * **Staking forecasts.** Already available through the explorer but could be refined with forecasts of staking activity, participation rate, and issuance over time. Supplement with other useful representations such as dilution or issuance-adjusted yield.
+
+  *Evaluation.* The assumptions of the per-Orchestrator yield forecasts on the explorer are unclear, and no associated forecasts of participation rate or issuance are provided. It would be useful for liquid LPT investors, Delegators, and Delegates to have access to more flexible forecasting tools for yield and dilution, for example, ones that relate them to activity in the wider markets. Moreover, risk assessments based on forecasts would be useful in the design of controls on issuance and participation rate that have been a [topic of recent attention](https://forum.livepeer.org/t/inflation-focused-lip-discussion-thread/2753).
 
 * **Delegator view.** Show major delegates with labels (ideally self-identified) where possible, and track delegate activity with staking event listings. Display staking activity forecasts based on market data. This view could be used by the Foundation and Delegates to monitor delegation trends and develop strategies to attract stake.
 
@@ -94,3 +90,9 @@ We identified a few focus areas for improvements:
   
   *Evaluation.* Fostering a diverse set of demand sources is essential to securing the future of Livepeer Network revenue. Currently, it is hard for potential demand sources to discover how to use the network directly and to trust in its reliability. Thus, filling this gap with an easily discoverable introduction to the Gateway role and explanations of what mechanisms are used to ensure reliability as well as links to actual reliability data would seem to warrant high prioritisation.
 
+
+* **Protocol research and evaluation.** Led by the Foundation, develop and publish a research roadmap and client/SC upgrade calendar. Recruit a research team or research partners. Compare [Ethereum roadmap](https://ethroadmap.com/).
+
+  Designate independent expert authors and reviewers for standard track LIPs.
+
+  *Evaluation.* Delegates deciding whether to vote on protocol upgrade or parameter change LIPs would benefit from an expert synthesis of available information and quantitative analysis to inform their decisions. Under current conditions, the votes of a small number of delegates can swing these decisions, and may do so without achieving general community alignment or even awareness of the changes. This latent alignment issue could be ameliorated by communicating clear criteria and context against which upgrade LIPs can be judged, and providing for expert commentary on each proposal.
