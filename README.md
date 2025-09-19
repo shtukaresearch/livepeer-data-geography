@@ -4,8 +4,12 @@ This repository describes a model for the Livepeer ecosystem from a data perspec
 
 ## Contents
 
-* `/roles/` Description of six roles in the Livepeer ecosystem and their characteristic decision scenarios with a view to identifying data needs.
-* `/views/` Classification of Livepeer ecosystem data queries into six views, lists of existing resources belonging to those views, and gaps.
+* `/roles/` Description of five roles in the Livepeer ecosystem and their characteristic decision scenarios with a view to identifying data needs.
+
+  *How to use.* For each role and decision scenario, explore questions that arise in that scenario. For each question, assess to what extent the information needed to address the question is available in the ecosystem. By scanning through these assessments, read off and classify data gaps.
+
+* `/views/` (WIP) Classification of Livepeer ecosystem data queries into six views, with lists of existing resources belonging to those views.
+
 * `/model.md` Model description.
 
 ## Summary of findings
