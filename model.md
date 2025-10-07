@@ -14,11 +14,13 @@ The notes in this repo are largely structured according to the stated model desc
 
 * We classify data needs into a set of six **views**, each of which represents an overview of a subset of activity in the ecosystem: [Demand](./views/demand.md), [Supply](./views/supply.md), [Delegator](./views/delegator.md), [Staking](./views/staking.md), [Market](./views/market.md), and [Governance](./views/governance.md) (with the latter comprising four sub-views).
 
-* For each data need, we list one or more of the following:
+* For each data need, we list zero or more of the following:
 
   * *Sources.* Existing sources that satisfy the data need, whether raw data feeds or user-facing dashboards.
   * *Potential sources.* Resources that could be developed to improve servicing of the data need.
   * *Representations.* Common or useful presentations of data for data consumers with this need.
+
+  All fields are *optional* and may appear multiple times — we fill them out only when we have relevant information to include.
 
 * We rate each data gap according to the following rough scale:
 
