@@ -43,6 +43,7 @@ Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate
   * What is the market floor price for jobs within my build's capabilities?
     * *Data availability score: 3*
     * *Source.* Explorer account view.
+    * *Source.* Stronk's [Global Orchestrator overview dashboard](https://grafana.stronk.tech/d/lp-global-orch-instances/livepeer-global-overview).
     * *Potential source.* Filter/sort Orchestrator by fee quote.
     * How is market floor price expected to change over time?
       * *Data availability score: 1*
