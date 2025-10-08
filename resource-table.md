@@ -9,7 +9,7 @@ Resources are listed together with their *owner*, that is the entity empowered t
 | Stronk's Arbitrum dashboard         | Community (Stronk)    | Dune      | https://dune.com/stronk/livepeer-arbitrum                    |
 | Sixdegree's LPT holder dashboard    | Community (Sixdegree) | Dune      | https://dune.com/sixdegree/liverpeer-lpt-ownership-and-governance |
 | Rickstaa's growth dashboard         | Community (Rickstaa)  | Dune      | https://dune.com/rickstaa/livepeer-growth-dashboard          |
-| Cloud SPE's Livepeer Tools          | Cloud SPE             |           | https://www.livepeer.tools                                   |
+| Livepeer Tools                      | Cloud SPE             |           | https://www.livepeer.tools                                   |
 | Dob's Livepeer treasury dash        | Community (dob)       | Dune      | https://dune.com/dob/livepeer-treasury                       |
 | Rickstaa's AI dashboard             | Community (Rickstaa)  | Dune      | https://dune.com/rickstaa/livepeer-ai                        |
 | Rickstaa's fee comparison dashboard | Community (Rickstaa)  | Dune      | https://dune.com/rickstaa/livepeer-fee-compare               |
