@@ -4,17 +4,52 @@ This repository describes a model for the Livepeer ecosystem from a data perspec
 
 ## Contents
 
-* `/roles/` Description of five roles in the Livepeer ecosystem and their characteristic decision scenarios with a view to identifying data needs.
+* [`/roles/`](./roles/) Description of five roles in the Livepeer ecosystem and their characteristic decision scenarios with a view to identifying data needs.
 
   *How to use.* For each role and decision scenario, explore questions that arise in that scenario. For each question, assess to what extent the information needed to address the question is available in the ecosystem. By scanning through these assessments, read off and classify data gaps.
 
-* `/views/` (WIP) Classification of Livepeer ecosystem data queries into six views, with lists of existing resources belonging to those views.
+* [`/views/`](./views/) **UNDER CONSTRUCTION.** Classification of Livepeer ecosystem data needs into six views with lists of existing resources belonging to those views. In the future, we expect that this part of the mapping can be used to categorise new or potential data sources.
 
-* `/model.md` Model description.
+* [`/resource-table.md`](./resource-table.md) Full list of known data resources and their owners.
 
-## Summary of findings
+* [`/model.md`](./model.md) Model description.
 
-We identified a few focus areas for improvements:
+## Scope
+
+The scope of our model is the "Livepeer Protocol" — that is, the network of GPU compute service providers (Orchestrators) and smart contracts that manage service provider registration, payments, token issuance, and voting — and all entities that interact with it directly. This definition excludes "end-users" who consume Livepeer via a Gateway. It also excludes operations that entities might reasonably be expected to handle internally, or be private, idiosyncratic, or specialist. Examples of the latter include Foundation internal operations, tracking marketing KPIs, and sourcing local hardware or DC vendors for Orchestrator deployments.
+
+## Executive summary
+
+* We developed and populated a model for the data needs of seven roles — Foundation, Gateway, Investor, Delegator, Orchestrator, Delegate, and SPE — in the Livepeer ecosystem. (Some people have asked us about a "Builder" role — our approach to classifying builders is discussed in [`/roles/README.md`](./roles/README.md).) By exploring the decision scenarios of each role and queries that arise therein, we evaluated the extent to which data needs are met by existing resources using a simple scoring system and, where possible, proposed paths to improvement.
+
+* The following items are assessed as likely to have immediate impact.
+
+  * **Gateway onboarding.** All demand for Livepeer compute flows through Gateways, so any data services or documentation that can facilitate Gateway onboarding is of high priority.
+    
+    * **Gateway documentation and marketing materials** should clearly explain the role and opportunity of running a Gateway.
+    * **Performance, reliability, and capacity data** are essential for building trust in Livepeer compute as well as to assist Gateways in developing job distribution strategies. Existing Gateways can gather this data, but it must be aggregated into a single location and made available. The community could engage with Livepeer Inc. to help develop public goods infrastructure to handle this.
+    
+  * **Job tagging and requirements advertising.** Improve Protocol UX by connecting Gateways with Orchestrators with capabilities satisfying Gateway-specified requirements and provide valuable metadata to all parties for granular tracking of supply and demand.
+  
+  * **Livepeer Treasury.** Develop Treasury strategy and budget, and incorporate it into a Treasury dashboard to facilitate Delegate decision-making. This will immediately improve the DAO's ability to deploy capital and help SPEs put together realistic proposals. It is probably not technically demanding. 
+  
+  * **Investor onboarding.** 
+  
+    * **Token marketing.** Accelerate onboarding of LPT investors by clarifying the function and legal status of LPT voting and LPT cashflows. Publish network revenue dividends to LPT holders. Provide a portal to third-party analysis and trackers that illuminate LPT's positioning within the broader DePIN/web3/cloud market. 
+  
+    * **Staker onboarding.** Accelerate onboarding of LPT stakers by highlighting summary views of optimal yields as well as dilution rates for holders of liquid LPT. Offer forecasts and Orchestrator risk assessments to aid in developing staking strategies. Integrate staking information into third-party trackers for side-by-side comparison against other ecosystems and greater visibility.
+  
+  * **Orchestrator onboarding.** Build a dashboard for demand reports and forecasts, with breakdowns by job tag, capability requirements, and Gateway. Maintain up-to-date documentation on Orchestrator hardware requirements.
+  
+* Items whose impact is likely to be felt over a longer term or higher granularity items:
+  * **Productionise or integrate Livepeer Tools.** The Cloud SPE's dashboards fulfil important data needs but the website is often down. Livepeer Foundation could take ownership of these and give them an upgrade or integrate them into a new explorer.
+  * **Delegator view.** Track delegator events to aid the Foundation in understanding the investor population and Delegates in developing strategies to attract more stake.
+  * **Protocol research portal.** Illuminate current protocol research activity, research roadmap, and upgrade calendar to aid in Delegate voting on LIPs and recruit protocol researchers.
+
+
+## Key findings
+
+Here we describe in more detail the main focus areas we found for improvements:
 
 * **Performance, reliability, and capacity data.** Regularly benchmark performance, check availability, failure rates, and claimed capabilities of Orchestrator nodes across the network and aggregate these data in a central location.
 
@@ -42,7 +77,7 @@ We identified a few focus areas for improvements:
 
 * **Treasury strategy and budget.** Produce one and publish it.  Develop funding programmes with defined objectives in focus areas.
 
-  *Evaluation.* Provide essential context for delegates deciding on treasury allocation decisions, facilitating ecosystem-wide alignment and understanding. The current funding allocations to SPEs, and especially to the Transformation SPE, are a starting point, but not a full substitute for an integrated budget with a unified approval process. The costs of producing a budget proposal and working towards LPT-vote 
+  *Evaluation.* Provide essential context for delegates deciding on treasury allocation decisions, facilitating ecosystem-wide alignment and understanding. The current funding allocations to SPEs, and especially to the Transformation SPE, are a starting point, but not a full substitute for an integrated budget with a unified approval process. 
 
 * **Treasury dashboard.** Integrated view showing treasury balance, history, and income and spending forecasts. Once decided, integrate ecosystem budget for side-to-side comparison with actual cashflows; tag spending and earmarked funds according to budget categories. If capital management strategies are deployed, integrate views of these here.
 
