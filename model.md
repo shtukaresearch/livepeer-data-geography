@@ -35,4 +35,6 @@ The notes in this repo are largely structured according to the stated model desc
   For rating 4, an "easily accessible form" is one not requiring any further work — for example, writing scripts or trawling multiple written sources — to consume.
   
   If we take the official Explorer as our designated portal, then by definition all data presented there has an availability score of 5. This does not imply that no improvements to presentation of such data are possible or desirable.
+  
+  The data availability score is also optional, but we have tried to fill it out for as many queries as possible. If we haven't listed the data availbility score, it is probably a 0 or 1.
 
