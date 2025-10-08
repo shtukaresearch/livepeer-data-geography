@@ -7,6 +7,8 @@ View of the governance context and decision-making of the Livepeer ecosystem. Co
 * **Protocol.** Protocol research, LIPs.
 * **Delegates.** Delegate voting behaviour.
 
+The Foundation and Delegate roles make use of this view.
+
 ## Stories
 
 ### Coordination

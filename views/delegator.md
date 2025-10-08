@@ -2,9 +2,7 @@
 
 View of delegation activity among LPT holders. Bonding and unbonding events and token owner concentration. Can also be thought of as a demand view for staking.
 
-## Stories
-
-
+The Foundation and Delegate roles make use of this view.
 
 ## Resources
 
