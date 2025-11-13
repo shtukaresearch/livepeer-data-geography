@@ -18,7 +18,7 @@ An SPE or prospective SPE operator must develop Livepeer ecosystem programmes an
     * *Resource.* Trawling [Treasury forum](https://forum.livepeer.org/c/treasury/18)
     * *Data availability score: 4*
   * Which grants were rejected or revisions requested because they asked for too much funding or support?
-    * *Resource.* Trawling [Treasury forum](https://forum.livepeer.org/c/treasury/18)
+    * *Resource.* Trawling [Treasury forum](https://forum.livepeer.org/c/treasury/18); [Treasury explorer](https://explorer.livepeer.org/treasury)
     * *Data availability score: 4*
 
 **Views:** Governance (all subviews).

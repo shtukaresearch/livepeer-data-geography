@@ -24,7 +24,7 @@
     * *Data availability score: 4*
   * How much revenue does the network as a whole generate?
   
-    * *Source.* Arbitrum logs (`WinningTicketRedeemed` events).
+    * *Source.* Arbitrum logs (`WinningTicketRedeemed` events), [Livepeer subgraph](https://thegraph.com/explorer/subgraphs/FE63YgkzcpVocxdCEyEYbvjYqEf2kb1A6daMYRxmejYC?view=Query&chain=arbitrum-one).
     * *Source.* [Stronk's Dune dash](https://dune.com/stronk/livepeer-arbitrum), [Explorer](https://explorer.livepeer.org)
     * *Data availability score: 5*
   

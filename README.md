@@ -83,7 +83,7 @@ Here we describe in more detail the main focus areas we found for improvements:
 
   *Evaluation.* There are quite a few existing solutions on the market for DAO tooling that may provide the desired features. We recommend investigating and evaluating these before committing resources to an in-house solution.
 
-* **Livepeer Tools.** The [livepeer.tools](https://livepeer.tools) site appears to be down often and is not discoverable through official entry points such as the explorer. The Orchestrator directory and Delegate voting record pages there are already quite useful when they are up. Much could be gained by simply improving the frontend's reliability and integrating its representations into an official explorer.
+* **Livepeer Tools.** The [livepeer.tools](https://livepeer.tools) site experiences occasional outages and is not discoverable through official entry points such as the explorer. The Orchestrator directory and Delegate voting record pages there are already quite useful when they are up. Much could be gained by simply improving the frontend's reliability and integrating its representations into an official explorer.
 
   *Evaluation.* The decision of whether to try to productionise Livepeer Tools or to simply adapt the good parts of its code and design principles in a revamped explorer should depend on the overall ecosystem data strategy and how much funding is available.
 
@@ -115,7 +115,7 @@ Here we describe in more detail the main focus areas we found for improvements:
 
 * **Orchestrator documentation.** Accessible capability descriptions, per-capability hardware and bandwidth requirements. Link through to data on implied costs, if available (cf. **orchestrator directory**).
 
-* **Gateway documentation and marketing materials.** Currently there is no official documentation on running your own Gateway or even what a Gateway is (but see this [third party repo](https://github.com/videoDAC/livepeer-gateway)). Provide discoverable documentation or marketing material that defines the Gateway role within Livepeer. 
+* **Gateway documentation and marketing materials.** While [technical documentation](https://docs.livepeer.org/gateways/guides/gateway-overview) exists for running a Gateway, there is a lack of higher-level marketing materials and conceptual explanations that define what a Gateway is, why someone would want to run one, and what the business opportunity looks like. Provide discoverable marketing material that clearly articulates the Gateway value proposition and role within Livepeer.
 
   Clarify on official sources how the default gateway software allocates jobs to Orchestrators, and how this may be customised.
 
@@ -123,7 +123,7 @@ Here we describe in more detail the main focus areas we found for improvements:
 
   If the ecosystem decides to allocate funding to stimulate the development of new Gateways in focus areas, advertise that here.
   
-  *Evaluation.* Fostering a diverse set of demand sources is essential to securing the future of Livepeer Network revenue. Currently, it is hard for potential demand sources to discover how to use the network directly and to trust in its reliability. Thus, filling this gap with an easily discoverable introduction to the Gateway role and explanations of what mechanisms are used to ensure reliability as well as links to actual reliability data would seem to warrant high prioritisation.
+  *Evaluation.* Fostering a diverse set of demand sources is essential to securing the future of Livepeer Network revenue. Currently, while low-level technical documentation exists, it is hard for potential demand sources to understand the business case and opportunity of becoming a Gateway. Thus, filling this gap with an easily discoverable introduction to the Gateway role and value proposition, explanations of what mechanisms are used to ensure reliability, and links to actual reliability data would seem to warrant high prioritisation.
 
 
 * **Protocol research and evaluation.** Led by the Foundation, develop and publish a research roadmap and client/SC upgrade calendar. Recruit a research team or research partners. Compare [Ethereum roadmap](https://ethroadmap.com/).

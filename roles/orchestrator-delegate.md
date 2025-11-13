@@ -2,7 +2,7 @@
 
 [Orchestrators](https://www.livepeer.org/orchestrate) are the node operators of the Livepeer Network. They provide GPU compute services — transcoding, AI, or [bring-your-own](https://forum.livepeer.org/t/pre-proposal-creative-industries-spe/2942) — in exchange for fees paid in ETH.
 
-Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate), who may [vote in the DAO](https://docs.livepeer.org/orchestrators/guides/vote in the DAO) and [receive a share of LPT issuance](https://docs.livepeer.org/orchestrators/guides/configure-reward-calling#about-calling-reward) proportional to the share of LPT delegated to them by [Delegators][./investor-delegator.md]. To attract delegated LPT, Delegates [offer a share](https://explorer.livepeer.org/accounts/0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc/orchestrating) of the rewards they receive from issuance as well as their compute fees back to delegators. Delegates must run a node, but they don't need to accept requests for compute services in order to vote or receive issuance.
+Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate), who may [vote in the DAO](https://docs.livepeer.org/orchestrators/guides/vote) and [receive a share of LPT issuance](https://docs.livepeer.org/orchestrators/guides/configure-reward-calling#about-calling-reward) proportional to the share of LPT delegated to them by [Delegators](./investor-delegator.md). To attract delegated LPT, Delegates [offer a share](https://explorer.livepeer.org/accounts/0x4f4758f7167b18e1f5b3c1a7575e3eb584894dbc/orchestrating) of the rewards they receive from issuance as well as their compute fees back to delegators. Delegates must run a node, but they don't need to accept requests for compute services in order to vote or receive issuance.
 
 ## Scenarios
 
@@ -41,9 +41,10 @@ Orchestrators also function as [LPT Delegates](https://www.livepeer.org/delegate
 * Develop strategy (infra build, quote, fee/reward cuts, job acceptance policy) for optimal market entry.
 
   * What is the market floor price for jobs within my build's capabilities?
-    * *Data availability score: 3*
-    * *Source.* Explorer account view.
-    * *Source.* Stronk's [Global Orchestrator overview dashboard](https://grafana.stronk.tech/d/lp-global-orch-instances/livepeer-global-overview).
+    * *Data availability score: 3 (transcoding), 2 (AI)*
+    * *Source.* Explorer account view (transcoding).
+    * *Source.* Stronk's [Global Orchestrator overview dashboard](https://grafana.stronk.tech/d/lp-global-orch-instances/livepeer-global-overview) (transcoding).
+    * *Source.* [AI GPU dashboard](https://livepeer-ai-compute-visualizer.streamlit.app) (AI).
     * *Potential source.* Filter/sort Orchestrator by fee quote.
     * How is market floor price expected to change over time?
       * *Data availability score: 1*
