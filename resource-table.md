@@ -19,6 +19,8 @@ Resources are listed together with their *owner*, that is the entity empowered t
 | Livepeer Subgraph                   | Community             | The Graph | https://thegraph.com/explorer/subgraphs/FE63YgkzcpVocxdCEyEYbvjYqEf2kb1A6daMYRxmejYC |
 | Messari listing                     | Messari               | Messari   | https://messari.io/project/livepeer                          |
 | DefiLlama listing                   | DefiLlama             | DefiLlama | https://defillama.com/protocol/livepeer                      |
+| DeFiLlama Fees dashboard            | DefiLlama             | DefiLlama | https://defillama.com/fees                                   |
+| Token Terminal Infrastructure page  | Token Terminal        | Token Terminal | https://tokenterminal.com/terminal/infrastructure       |
+| Web3 Index listing                  | Web3 Index            | Web3 Index | https://web3index.org                                    |
 | DePINScan listing                   | IoTeX/DePINScan       | DePINScan | https://depinscan.io/projects/livepeer                       |
 | KarmaGAP tracker                    |                       | KarmaGAP  | https://gap.karmahq.xyz/community/livepeer                   |
-
