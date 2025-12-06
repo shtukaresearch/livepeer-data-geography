@@ -15,6 +15,9 @@ From the perspective of identifying Livepeer Network and ecosystem data gaps, we
 
 Many of the Foundation's scenarios require them to see things from the perspective of a prospective user (gateway), node operator (orchestrator), or investor (delegator), so there is a large overlap in the set of characteristic queries.
 
+> [!NOTE]
+> KarmaGAP has been deprecated and the Foundation is developing a new accountability system. References to KarmaGAP below describe the ecosystem as it existed prior to that transition.
+
 ## Scenarios
 
 * Evaluate Livepeer's current position within the competitive landscape for GPU compute.
@@ -41,7 +44,7 @@ Many of the Foundation's scenarios require them to see things from the perspecti
 * Identify funding gaps and opportunities to deploy idle capital.
 
   * What proportion of budget is currently allocated to furthering each objective area?
-    * *Source.* Ad hoc summation of figures from Treasury forum and KarmaGAP
+    * *Source.* Ad hoc summation of figures from Treasury forum and KarmaGAP (historical; KarmaGAP deprecated while new accountability system is developed)
     * *Potential source.* Official summaries.
     * *Potential source.* Clear statement of budget allocation to broad objective categories.
   * How much idle capital is there in the Livepeer Treasury, and what are our plans for its deployment?
@@ -54,7 +57,7 @@ Many of the Foundation's scenarios require them to see things from the perspecti
   * What resources are available within the ecosystem to direct towards strategic goals?
 
     * Contributor/SPE?
-      * *Source.* [KarmaGAP SPE dashboard](https://gap.karmahq.xyz/community/livepeer)
+      * *Source.* [KarmaGAP SPE dashboard](https://gap.karmahq.xyz/community/livepeer) (deprecated; replacement accountability system in development)
     * Funding? Foundation treasury, Livepeer treasury, income streams.
       * *Data availability score: 4 (treasury), 2 (other)*
       * *Source.* [Treasury dash](https://dune.com/dob/livepeer-treasury)
@@ -75,10 +78,10 @@ Many of the Foundation's scenarios require them to see things from the perspecti
 * Recruit and coordinate task forces to execute on initiatives.
 
   * What ecosystem partners or contributors should we contact directly to execute on a task?
-    * *Source.* [KarmaGAP SPE dashboard](https://gap.karmahq.xyz/community/livepeer)
+    * *Source.* [KarmaGAP SPE dashboard](https://gap.karmahq.xyz/community/livepeer) (deprecated; replacement accountability system in development)
   * How much budget should be allocated to a given initiative?
     * What are market or in-ecosystem compensation rates for standard categories of contribution?
-      * *Source.* Livepeer forum, [KarmaGAP SPE reports](https://gap.karmahq.xyz/community/livepeer)
+      * *Source.* Livepeer forum, [KarmaGAP SPE reports](https://gap.karmahq.xyz/community/livepeer) (deprecated; replacement accountability system in development)
       * *Potential source.* Market-wide compensation rates reporting
   * If contributions are solicitied via RFPs, how do we set minimum standards for responses and what criteria do we use to pick winners?
 

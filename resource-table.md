@@ -20,5 +20,6 @@ Resources are listed together with their *owner*, that is the entity empowered t
 | Messari listing                     | Messari               | Messari   | https://messari.io/project/livepeer                          |
 | DefiLlama listing                   | DefiLlama             | DefiLlama | https://defillama.com/protocol/livepeer                      |
 | DePINScan listing                   | IoTeX/DePINScan       | DePINScan | https://depinscan.io/projects/livepeer                       |
-| KarmaGAP tracker                    |                       | KarmaGAP  | https://gap.karmahq.xyz/community/livepeer                   |
+| KarmaGAP tracker (deprecated)       | Livepeer Foundation   | KarmaGAP  | https://gap.karmahq.xyz/community/livepeer                   |
 
+The KarmaGAP tracker is kept here for historical completeness. The Livepeer Foundation has deprecated KarmaGAP and is building a new accountability system to replace it.
